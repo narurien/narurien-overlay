@@ -28,7 +28,8 @@ RDEPEND="app-arch/unzip
 		x11-libs/cairo
 		x11-libs/gtk+ )
 	amd64? ( app-emulation/emul-linux-x86-baselibs
-		app-emulation/emul-linux-x86-gtklibs )"
+		app-emulation/emul-linux-x86-gtklibs
+		app-emulation/emul-linux-x86-soundlibs )"
 
 QA_PRESTRIPPED=".*\.so /opt/Adobe/AirSDK/bin/adl"
 QA_EXECSTACK="*/libCore.so */libcurl.so */libadobecertstore.so */libadobecp.so"
