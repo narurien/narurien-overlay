@@ -1,0 +1,18 @@
+<repositories xmlns="" version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>
+			<![CDATA[ narurien-overlay ]]>
+		</name>
+	<description lang="en">
+		<![CDATA[ Naruien overlay ]]>
+	</description>
+	<homepage>https://github.com/narurien/narurien-overlay</homepage>
+	<owner type="person">
+		<email>narurien@gmail.com</email>
+	</owner>
+	<source type="git">git://github.com/narurien/narurien-overlay.git</source>
+	<feed>
+		https://github.com/feeds/narurien/commits/olemarkus-overlay/master
+	</feed>
+	</repo>
+</repositories>
